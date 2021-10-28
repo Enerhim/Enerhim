@@ -6,4 +6,4 @@
 - 🌱 I’m currently learning Web Development and Artificial Intelligence 
 - 🤔 I’m looking for help with ThreeJs
 
-Fun fact of the day: According to many online studies, the most disliked programming languages are Perl, Delphi, and VBA
+Fun fact of the day: The first computer “bug” was an actual real-life bug
