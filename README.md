@@ -1,9 +1,7 @@
-### Hi there, Im Himanshu aka [Enerhim] 👋
+### Hi there, Im Himanshu 👋
 
-## Im a Gamer, Memer and Developer
+## Im a developer that likes to make unique and interesting projects
 
 - 🔭 I’m currently working on a [Neural Network from Scratch]
 - 🌱 I’m currently learning Web Development and Artificial Intelligence 
 - 🤔 I’m looking for help with backpropagation
-
-Fun fact of the day: The first computer “bug” was an actual real-life bug
