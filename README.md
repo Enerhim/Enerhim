@@ -4,4 +4,4 @@
 
 - 🔭 I’m currently working on a [Neural Network from Scratch]
 - 🌱 I’m currently learning Web Development and Artificial Intelligence 
-- 🤔 I’m looking for help with backpropagation
+- 🤔 I’m looking for help with React Native
