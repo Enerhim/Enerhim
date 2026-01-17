@@ -9,7 +9,7 @@ Website: https://enerhim.github.io/Enerweb/
 
 
 ## 🔧 Skills
-### Languages: Python, C, C++, TS, Java
+### Languages: <p> Python, C, C++, TS, Java</p>
 
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Python_logo_%28icon_only%29.svg" width="30"/>
@@ -28,7 +28,11 @@ Website: https://enerhim.github.io/Enerweb/
   <img src="https://www.svgrepo.com/show/452092/react.svg" width="30"/>
   <img src="https://www.svgrepo.com/show/378440/nextjs-fill.svg" width="30"/>
 </p>
-- Proficient w/ Linux Tools & Scripting
+
+### 
+ ### Proficient w/ Linux Tools & Scripting
+
+ 
 
 
 ## 💬 What I’m Learning
