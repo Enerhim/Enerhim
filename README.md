@@ -10,9 +10,11 @@ Website: https://enerhim.github.io/Enerweb/
 
 ## 🔧 Skills
 
-Languages: Python, C, C++, TypeScript, Java
-Frameworks & Libraries: TensorFlow, PyTorch, OpenGL, React, NextJS 
-Proficient w/ Linux Tools & Scripting
+- Languages: Python, C, C++, TypeScript, Java <p align="center">
+  <img src="https://commons.wikimedia.org/wiki/File:C_Programming_Language.svg" width="25"/>
+</p>
+- Frameworks & Libraries: TensorFlow, PyTorch, OpenGL, React, NextJS 
+- Proficient w/ Linux Tools & Scripting
 
 
 ## 💬 What I’m Learning
@@ -25,7 +27,7 @@ Proficient w/ Linux Tools & Scripting
 
 ## 📫 Contact
 <p align="center">
-  <a href="mailto:himsharma.contact@gmail.com" padding="30">
+  <a href="mailto:himsharma.contact@gmail.com" margin="30">
     <img src="https://www.svgrepo.com/show/395714/email-message-mail-envelope.svg" width="50"/>
   </a>
   <a href="https://www.linkedin.com/in/enerhim/">
