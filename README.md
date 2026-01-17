@@ -32,10 +32,7 @@ Website: https://enerhim.github.io/Enerweb/
 -->
 
 #### Platforms: Unity, Godot
-
-#### Proficient w/ Linux Tools & Scripting
-
- 
+#### Proficient w/ Linux Tools & Scripting (Neovim, Wayland, Lua, etc)
 
 
 ## 💬 What I’m Learning
