@@ -2,7 +2,7 @@
 
 ## About Me
 
-- <img src="https://www.svgrepo.com/svg/341619/arch-linux" width=20px></img> Arch Linux User
+- <img src="https://www.pikpng.com/pngl/b/201-2013443_600px-arch-linux-logo-arch-linux-logo-svg.png" width=20px></img> Arch Linux User
 - 🧠 Aspiring Machine Learning Researcher (Hoping to architect an excellent ML model on my own)
 
 Website: https://enerhim.github.io/Enerweb/
