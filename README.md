@@ -9,7 +9,7 @@ Website: https://enerhim.github.io/Enerweb/
 
 
 ## 🔧 Skills
-#### Languages: Python, C, C++, TS, Java=
+#### Languages: Python, C, C++, TS, Java
 
 <!--
 <p align="center">
