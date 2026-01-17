@@ -1,4 +1,4 @@
-<img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/3f6d6e29-517c-4316-bd9e-03f0764aa114" /># Hi, I’m Himanshu Sharma
+# Hi, I’m Himanshu Sharma
 
 ## About Me
 
