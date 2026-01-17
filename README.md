@@ -38,9 +38,9 @@ Website: https://enerhim.github.io/Enerweb/
 ## 💬 What I’m Learning
 
 - Primarily learning MLOps
-- Implementations and memory management in C/C++
-- Learning game design and development using Godot on the side
-- 
+- Memory allocators & DSA w/ C
+- 2D Game Dev & Design w/ Godot
+  
 ## 📫 Contact
 <p align="center">
   <a href="mailto:himsharma.contact@gmail.com" margin="30">
