@@ -1,4 +1,4 @@
-# Hi, I’m Himanshu Sharma
+<img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/3f6d6e29-517c-4316-bd9e-03f0764aa114" /># Hi, I’m Himanshu Sharma
 
 ## About Me
 
@@ -18,7 +18,14 @@ Website: https://enerhim.github.io/Enerweb/
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" width="30"/>
   <img src="https://www.svgrepo.com/show/452234/java.svg" width="30"/>
 </p>
-- Frameworks & Libraries: TensorFlow, PyTorch, OpenGL, React, NextJS 
+### Frameworks & Libraries: TensorFlow, PyTorch, OpenGL, React, NextJS 
+<p align="center">
+  <img src="https://www.svgrepo.com/show/354440/tensorflow.svg" width="30"/>
+  <img src="https://www.svgrepo.com/show/354240/pytorch.svg" width="30"/>
+  <img src="https://www.svgrepo.com/show/354140/opengl.svg" width="30"/>
+  <img src="https://www.svgrepo.com/show/452092/react.svg" width="30"/>
+  <img src="https://www.svgrepo.com/show/378440/nextjs-fill.svg" width="30"/>
+</p>
 - Proficient w/ Linux Tools & Scripting
 
 
