@@ -32,7 +32,7 @@ itch.io:
 
 
 <p align="center">
-  <a href="mailto:himsharma.contact@gmail.com">
+  <a href="mailto:himsharma.contact@gmail.com" style="padding: 30px">
     <img src="https://www.svgrepo.com/show/395714/email-message-mail-envelope.svg" width="32"/>
   </a>
   <a href="https://www.linkedin.com/in/enerhim/">
@@ -48,6 +48,6 @@ itch.io:
     <img src="https://www.svgrepo.com/show/22159/twitter.svg" width="32"/>
   </a>
   <a href="https://itch.io/profile/enerhim">
-    <img src="https://static.itch.io/images/logo-white-new.svg" width="32"/>
+    <img src="https://static.itch.io/images/app-icon.svg" width="32"/>
   </a>
 </p>
