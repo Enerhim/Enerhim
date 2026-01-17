@@ -40,9 +40,7 @@ Website: https://enerhim.github.io/Enerweb/
 - Primarily learning MLOps
 - Implementations and memory management in C/C++
 - Learning game design and development using Godot on the side
-
----
-
+- 
 ## 📫 Contact
 <p align="center">
   <a href="mailto:himsharma.contact@gmail.com" margin="30">
