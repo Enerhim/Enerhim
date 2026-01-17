@@ -30,3 +30,6 @@ Kaggle: https://www.kaggle.com/enerhim
 X: https://x.com/HimEner
 itch.io: https://itch.io/profile/enerhim
 Website: https://enerhim.github.io/Enerweb/
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourname)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
