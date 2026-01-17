@@ -11,7 +11,7 @@ Website: https://enerhim.github.io/Enerweb/
 ## 🔧 Skills
 
 - Languages: Python, C, C++, TypeScript, Java <p align="center">
-  <img src="https://commons.wikimedia.org/wiki/File:C_Programming_Language.svg" width="25"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" width="25"/>
 </p>
 - Frameworks & Libraries: TensorFlow, PyTorch, OpenGL, React, NextJS 
 - Proficient w/ Linux Tools & Scripting
