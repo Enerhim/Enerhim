@@ -23,7 +23,7 @@ Proficient w/ Linux Tools & Scripting
 
 ## 📫 Contact
 
-Email: himsharma.contact@gmail.com
+Email: 
 LinkedIn: https://www.linkedin.com/in/enerhim/
 HF: https://huggingface.co/Enerhim
 Kaggle: https://www.kaggle.com/enerhim 
@@ -32,8 +32,8 @@ itch.io: https://itch.io/profile/enerhim
 Website: https://enerhim.github.io/Enerweb/
 
 <p align="center">
-  <a href="https://github.com/Enerhim">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/github.svg" width="32"/>
+  <a href="mailto:himsharma.contact@gmail.com">
+    <img src="https://www.svgrepo.com/show/521128/email-1.svg" width="32"/>
   </a>
   <a href="https://linkedin.com/in/yourname">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" width="32"/>
