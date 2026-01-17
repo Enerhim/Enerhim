@@ -25,7 +25,7 @@ Proficient w/ Linux Tools & Scripting
 
 ## 📫 Contact
 <p align="center">
-  <a href="mailto:himsharma.contact@gmail.com" style="padding: 30px">
+  <a href="mailto:himsharma.contact@gmail.com" padding="30">
     <img src="https://www.svgrepo.com/show/395714/email-message-mail-envelope.svg" width="50"/>
   </a>
   <a href="https://www.linkedin.com/in/enerhim/">
