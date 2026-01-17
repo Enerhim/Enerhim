@@ -31,5 +31,11 @@ X: https://x.com/HimEner
 itch.io: https://itch.io/profile/enerhim
 Website: https://enerhim.github.io/Enerweb/
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourname)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+<p align="center">
+  <a href="https://github.com/Enerhim">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/github.svg" width="32"/>
+  </a>
+  <a href="https://linkedin.com/in/yourname">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" width="32"/>
+  </a>
+</p>
