@@ -9,8 +9,9 @@ Website: https://enerhim.github.io/Enerweb/
 
 
 ## 🔧 Skills
+### Languages:
 
-- <p align="center">Languages: 
+<p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Python_logo_%28icon_only%29.svg" width="30"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" width="30"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="30"/>
