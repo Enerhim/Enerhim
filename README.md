@@ -29,7 +29,7 @@ Proficient w/ Linux Tools & Scripting
     <img src="https://www.svgrepo.com/show/395714/email-message-mail-envelope.svg" width="50"/>
   </a>
   <a href="https://www.linkedin.com/in/enerhim/">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" width="50"/>
+    <img src="https://www.svgrepo.com/show/57068/linkedin.svg" width="50"/>
   </a>
   <a href="https://huggingface.co/Enerhim">
     <img src="https://www.svgrepo.com/show/405838/hugging-face.svg" width="50"/>
