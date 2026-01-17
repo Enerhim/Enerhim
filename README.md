@@ -1,8 +1,8 @@
-# 👋 Hi, I’m Himanshu Sharma
+# Hi, I’m Himanshu Sharma
 
-## 🚀 About Me
+## About Me
 
-- 🐧 Arch Linux User
+- <img src="https://www.svgrepo.com/show/349296/arch-linux.svg" width=20px></img> Arch Linux User
 - 🧠 Aspiring Machine Learning Researcher (Hoping to architect an excellent ML model on my own)
 
 Website: https://enerhim.github.io/Enerweb/
