@@ -9,7 +9,7 @@ Website: https://enerhim.github.io/Enerweb/
 
 
 ## 🔧 Skills
-### Languages:
+### Languages: Python, C, C++, TS, Java
 
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Python_logo_%28icon_only%29.svg" width="30"/>
@@ -18,7 +18,9 @@ Website: https://enerhim.github.io/Enerweb/
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" width="30"/>
   <img src="https://www.svgrepo.com/show/452234/java.svg" width="30"/>
 </p>
-### Frameworks & Libraries: TensorFlow, PyTorch, OpenGL, React, NextJS 
+
+### Frameworks & Libraries: Tensorflow, PyTorch, OpenGL, React, NextJS
+
 <p align="center">
   <img src="https://www.svgrepo.com/show/354440/tensorflow.svg" width="30"/>
   <img src="https://www.svgrepo.com/show/354240/pytorch.svg" width="30"/>
