@@ -5,6 +5,8 @@
 - 🐧 Arch Linux User
 - 🧠 Aspiring Machine Learning Researcher (Hoping to architect an excellent ML model on my own)
 
+Website: https://enerhim.github.io/Enerweb/
+
 
 ## 🔧 Skills
 
@@ -23,19 +25,29 @@ Proficient w/ Linux Tools & Scripting
 
 ## 📫 Contact
 
-Email: 
-LinkedIn: https://www.linkedin.com/in/enerhim/
-HF: https://huggingface.co/Enerhim
-Kaggle: https://www.kaggle.com/enerhim 
+HF: 
+Kaggle: 
 X: https://x.com/HimEner
-itch.io: https://itch.io/profile/enerhim
-Website: https://enerhim.github.io/Enerweb/
+itch.io: 
+
 
 <p align="center">
   <a href="mailto:himsharma.contact@gmail.com">
     <img src="https://www.svgrepo.com/show/395714/email-message-mail-envelope.svg" width="32"/>
   </a>
-  <a href="https://linkedin.com/in/yourname">
+  <a href="https://www.linkedin.com/in/enerhim/">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" width="32"/>
+  </a>
+  <a href="https://huggingface.co/Enerhim">
+    <img src="https://www.svgrepo.com/show/405838/hugging-face.svg" width="32"/>
+  </a>
+  <a href="https://www.kaggle.com/enerhim ">
+    <img src="https://www.svgrepo.com/show/349422/kaggle.svg" width="32"/>
+  </a>
+  <a href="https://x.com/HimEner">
+    <img src="https://www.svgrepo.com/show/22159/twitter.svg" width="32"/>
+  </a>
+  <a href="https://itch.io/profile/enerhim">
+    <img src="https://static.itch.io/images/logo-white-new.svg" width="32"/>
   </a>
 </p>
