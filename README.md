@@ -24,30 +24,23 @@ Proficient w/ Linux Tools & Scripting
 ---
 
 ## 📫 Contact
-
-HF: 
-Kaggle: 
-X: https://x.com/HimEner
-itch.io: 
-
-
 <p align="center">
   <a href="mailto:himsharma.contact@gmail.com" style="padding: 30px">
-    <img src="https://www.svgrepo.com/show/395714/email-message-mail-envelope.svg" width="32"/>
+    <img src="https://www.svgrepo.com/show/395714/email-message-mail-envelope.svg" width="50"/>
   </a>
   <a href="https://www.linkedin.com/in/enerhim/">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" width="32"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" width="50"/>
   </a>
   <a href="https://huggingface.co/Enerhim">
-    <img src="https://www.svgrepo.com/show/405838/hugging-face.svg" width="32"/>
+    <img src="https://www.svgrepo.com/show/405838/hugging-face.svg" width="50"/>
   </a>
   <a href="https://www.kaggle.com/enerhim ">
-    <img src="https://www.svgrepo.com/show/349422/kaggle.svg" width="32"/>
+    <img src="https://www.svgrepo.com/show/349422/kaggle.svg" width="50"/>
   </a>
   <a href="https://x.com/HimEner">
-    <img src="https://www.svgrepo.com/show/22159/twitter.svg" width="32"/>
+    <img src="https://www.svgrepo.com/show/22159/twitter.svg" width="50"/>
   </a>
   <a href="https://itch.io/profile/enerhim">
-    <img src="https://static.itch.io/images/app-icon.svg" width="32"/>
+    <img src="https://static.itch.io/images/app-icon.svg" width="50"/>
   </a>
 </p>
