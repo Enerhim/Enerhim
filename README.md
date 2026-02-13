@@ -1,44 +1,7 @@
 # Hi, I’m Himanshu Sharma
 
-## About Me
-- 🧠 Aspiring Machine Learning Researcher (Hoping to architect an excellent ML model on my own)
-- <br/> <img src="https://www.pikpng.com/pngl/b/201-2013443_600px-arch-linux-logo-arch-linux-logo-svg.png" width=20px></img> Arch Linux User
-Website: https://enerhim.github.io/Enerweb/
+Blog: https://enerhim.github.io/
 
-
-## 🔧 Skills
-#### Languages: Python, C, C++, TS, Java
-
-<!--
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Python_logo_%28icon_only%29.svg" width="30"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" width="30"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="30"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" width="30"/>
-  <img src="https://www.svgrepo.com/show/452234/java.svg" width="30"/>
-</p>
--->
-#### Frameworks & Libraries: Tensorflow, PyTorch, OpenGL, React, NextJS
-<!--
-<p align="center">
-  <img src="https://www.svgrepo.com/show/354440/tensorflow.svg" width="30"/>
-  <img src="https://www.svgrepo.com/show/354240/pytorch.svg" width="30"/>
-  <img src="https://www.svgrepo.com/show/354140/opengl.svg" width="30"/>
-  <img src="https://www.svgrepo.com/show/452092/react.svg" width="30"/>
-  <img src="https://www.svgrepo.com/show/378440/nextjs-fill.svg" width="30"/>
-</p>
--->
-
-#### Platforms: Unity, Godot
-#### Proficient w/ Linux Tools & Scripting (Neovim, Wayland, Lua, etc)
-
-
-## 💬 What I’m Learning
-
-- Primarily learning MLOps
-- Memory allocators & DSA w/ C
-- 2D Game Dev & Design w/ Godot
-  
 ## 📫 Contact
 <p align="center">
   <a href="mailto:himsharma.contact@gmail.com" margin="30">
