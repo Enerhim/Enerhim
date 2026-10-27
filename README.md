@@ -1,6 +1,6 @@
 # Hi, I’m Himanshu Sharma
 
-Blog: https://enerhim.github.io/
+https://enerhim.vercel.app
 
 ## 📫 Contact
 <p align="center">
